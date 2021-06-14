@@ -83,7 +83,7 @@ let All_song = [
     path: "music/14.mp3",
     img: "images/14.jpg",
     singer: "B-Ray"
-   },
+   }
    
 ];
 /*you can add more song & images from you computer*/
