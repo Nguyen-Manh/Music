@@ -1,5 +1,5 @@
 # Music
-its here https://nguyen-manh.github.io/Music/
+Its here https://nguyen-manh.github.io/Music/
 
 Me: https://www.facebook.com/NguyenManh2k6/
 
