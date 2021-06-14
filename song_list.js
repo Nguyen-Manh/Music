@@ -35,55 +35,55 @@ let All_song = [
     path: "music/6.mp3",
     img: "images/6.jpg",
     singer: "Kendrick Lamar"
-   }
+   },
    {
     name: "Party of Buddha",
     path: "music/7.mp3",
     img: "images/7.jpg",
     singer: "Chị Cả ft. Hoa, Bommie Lotus"
-   }
+   },
    {
     name: "WOAH",
     path: "music/8.mp3",
     img: "images/8.jpg",
     singer: "KRYPTO9095 FT. D3MSTREET"
-   }
+   },
    {
     name: "Cháy",
     path: "music/9.mp3",
     img: "images/9.jpg",
     singer: "DSK"
-   }
+   },
    {
     name: "Ai cho ai",
     path: "music/10.mp3",
     img: "images/10.jpg",
     singer: "FloD ft. M! (Giang Nguyen)"
-   }
+   },
    {
     name: "Day by day",
     path: "music/11.mp3",
     img: "images/11.jpg",
     singer: "T-Ara"
-   }
+   },
    {
     name: "Xin lỗi",
     path: "music/12.mp3",
     img: "images/12.jpg",
     singer: "B-Ray"
-   }
+   },
    {
     name: "Sun flower",
     path: "music/13.mp3",
     img: "images/13.jpg",
     singer: "Paddy Sun"
-   }
+   },
    {
     name: "Ai?",
     path: "music/14.mp3",
     img: "images/14.jpg",
     singer: "B-Ray"
-   }
+   },
    
 ];
 /*you can add more song & images from you computer*/
