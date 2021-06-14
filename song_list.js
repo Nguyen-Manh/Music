@@ -1,41 +1,90 @@
 //song list
 let All_song = [
    {
-     name: "Yêu một người có lẽ",
+     name: "Em đéo biết nữa anh ơi",
      path: "music/1.mp3",
      img: "images/1.jpg",
-     singer: "Mạnh đẹp trai [NCS]"
+     singer: "7uppercuts"
    },
    {
-     name: "song1",
+     name: "Rap team ĐỤT",
      path: "music/2.mp3",
      img: "images/2.jpg",
-     singer: "singer1"
+     singer: "Thanos & Bao Chuẩn"
    },
    {
-     name: "song2",
+     name: "Độc Thoại",
      path: "music/3.mp3",
      img: "images/3.jpg",
-     singer: "singer2"
+     singer: "QUYECH"
    },
    {
-     name: "song3",
+     name: "Barcelona",
      path: "music/4.mp3",
      img: "images/4.jpg",
-     singer: "singer3"
+     singer: "Ed Sheeran"
    },
    {
-     name: "song4",
+     name: "What do i know?",
      path: "music/5.mp3",
      img: "images/5.jpg",
-     singer: "singer4"
+     singer: "Ed Sheeran"
    },
    {
-    name: "song5",
+    name: "HUMBLE",
     path: "music/6.mp3",
-    img: "images/1.jpg",
-    singer: "singer5"
+    img: "images/6.jpg",
+    singer: "Kendrick Lamar"
    }
+   {
+    name: "Party of Buddha",
+    path: "music/7.mp3",
+    img: "images/7.jpg",
+    singer: "Chị Cả ft. Hoa, Bommie Lotus"
+   }
+   {
+    name: "WOAH",
+    path: "music/8.mp3",
+    img: "images/8.jpg",
+    singer: "KRYPTO9095 FT. D3MSTREET"
+   }
+   {
+    name: "Cháy",
+    path: "music/9.mp3",
+    img: "images/9.jpg",
+    singer: "DSK"
+   }
+   {
+    name: "Ai cho ai",
+    path: "music/10.mp3",
+    img: "images/10.jpg",
+    singer: "FloD ft. M! (Giang Nguyen)"
+   }
+   {
+    name: "Day by day",
+    path: "music/11.mp3",
+    img: "images/11.jpg",
+    singer: "T-Ara"
+   }
+   {
+    name: "Xin lỗi",
+    path: "music/12.mp3",
+    img: "images/12.jpg",
+    singer: "B-Ray"
+   }
+   {
+    name: "Sun flower",
+    path: "music/13.mp3",
+    img: "images/13.jpg",
+    singer: "Paddy Sun"
+   }
+   {
+    name: "Ai?",
+    path: "music/14.mp3",
+    img: "images/14.jpg",
+    singer: "B-Ray"
+   }
+   
 ];
 /*you can add more song & images from you computer*/
 
