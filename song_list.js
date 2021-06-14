@@ -1,10 +1,10 @@
 //song list
 let All_song = [
    {
-     name: "Make Me Move",
+     name: "Yêu một người có lẽ",
      path: "music/1.mp3",
      img: "images/1.jpg",
-     singer: "NoCopyrightSounds [NCS]"
+     singer: "Mạnh đẹp trai [NCS]"
    },
    {
      name: "Beauz & Jvna - Crazy",
